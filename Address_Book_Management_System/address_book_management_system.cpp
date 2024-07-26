@@ -1,4 +1,3 @@
-```c
 #include <iostream>
 #include <string>
 #define MAX 1000
@@ -376,5 +375,4 @@ int main() {
     
     return 0;
 }
-```
 
